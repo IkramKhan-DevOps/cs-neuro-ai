@@ -44,7 +44,6 @@ INSTALLED_APPS = [
     'django.contrib.sites',
 
     # REQUIRED_APPLICATIONS
-    'ckeditor',
     'django_filters',
 
     'rest_framework',

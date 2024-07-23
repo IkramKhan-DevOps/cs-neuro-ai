@@ -2,7 +2,7 @@ django
 djangorestframework
 djangorestframework_simplejwt
 
-django-allauth
+django-allauth==0.55.0
 dj-rest-auth
 python-dateutil
 
